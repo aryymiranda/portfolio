@@ -46,6 +46,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 2rem;
 }
 
@@ -54,4 +55,12 @@ main {
   max-width: 24rem;
   border-radius: 4px;
   box-shadow: 4px 8px 12px #6b7280;
+}
+
+.lugar{
+  margin-top: 20px;
+}
+
+.git{
+  margin-top: 20px;
 }
