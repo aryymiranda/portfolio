@@ -69,3 +69,35 @@ main {
 .sobre h2{
   text-align: center;
 }
+
+.sobre{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sobre p{
+  max-width: 50%;
+  margin-left: 25%;
+}
+
+.Habilidades h2{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Habilidades img{
+  width: 50px;
+  height: 50px;
+}
+
+.icone{
+  margin: 20px 0 20px 41%;
+}
+
+.Trabalho h2{
+  text-align: center;
+  margin-top: 20px;
+}
